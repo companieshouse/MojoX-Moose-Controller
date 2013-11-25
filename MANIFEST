@@ -1,0 +1,6 @@
+lib/MojoX/Moose/Controller.pm
+t/controller.t
+README.pod
+Makefile.PL
+MANIFEST
+Changes

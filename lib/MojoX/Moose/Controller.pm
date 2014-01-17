@@ -6,8 +6,6 @@ use Moose;
 use MooseX::NonMoose;
 extends 'Mojolicious::Controller';
 
-use Mojo::Util qw( camelize );
-
 #-------------------------------------------------------------------------------
 
 sub BUILDARGS {

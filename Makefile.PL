@@ -30,6 +30,7 @@ WriteMakefile(
     'AUTHOR'        => 'Companies House <iankent@cpan.org>',
     'PREREQ_PM'     => {
                            'Moose' => '2.0603',
+                           'MooseX::NonMoose' => '0.24',
                            'Mojolicious' => '4.58',
                        },
     'dist'          => { COMPRESS => "gzip -9", SUFFIX => "gz" },

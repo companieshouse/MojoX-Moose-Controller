@@ -1,6 +1,6 @@
 package MojoX::Moose::Controller;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Moose;
 use MooseX::NonMoose;
@@ -21,14 +21,14 @@ sub BUILDARGS {
 
 =head1 NAME
  
-MooseX::Mojolicious::Controller - A Moose based Mojolicious controller
+MojoX::Moose::Controller - A Moose based Mojolicious controller
 
 =head1 SYNOPSIS
 
-    package MooseX::Mojolicious::Controller;
+    package MojoX::Moose::Controller;
 
     use Moose;
-    extends 'MooseX::Mojolicious::Controller';
+    extends 'MojoX::Moose::Controller';
 
 
 =head1 DESCRIPTION

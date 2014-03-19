@@ -1,7 +1,11 @@
-Revision history for Perl module MojoX::Moose::Controller
+Revision history for MojoX::Moose::Controller
 
-0.02 2014-01-20
- - add missing dependency
+{{$NEXT}}
+  - Set MooseX::NonMoose dependency to fix Module::Runtime bug
+  - Converted to Dist::Zilla
 
-0.01 2013-10-06
- - first release to CPAN
+0.02  2014-01-20
+  - add missing dependency
+
+0.01  2013-10-06
+  - first release to CPAN

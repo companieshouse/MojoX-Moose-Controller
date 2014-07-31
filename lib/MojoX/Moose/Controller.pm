@@ -1,6 +1,6 @@
 package MojoX::Moose::Controller;
 
-our $VERSION = '0.03';
+our $VERSION = '0.30';
 
 use Moose;
 use MooseX::NonMoose;

@@ -1,6 +1,8 @@
 Revision history for MojoX::Moose::Controller
 
 {{$NEXT}}
+
+0.30  2014-07-31
   - harmonise to CHGOVUK standard
   - Set MooseX::NonMoose dependency to fix Module::Runtime bug
   - Converted to Dist::Zilla
